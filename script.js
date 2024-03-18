@@ -28,8 +28,16 @@ function addData() {
 
 function removeAdmin() {
   //Write your code here, just console.log
+  let ans = arr.filter(
+    if(arr[profession]==="admin")
+    console.log(ans)
+   )
 }
 
 function concatenateArray() {
   //Write your code here, just console.log
+  let ans = arr.reduce(
+    if(arr[profession]==="developer")
+    console.log(ans)
+   )
 }
